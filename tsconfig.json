@@ -15,7 +15,7 @@
     "baseUrl": ".",
     "paths": {
       "src/*": ["src/*"],
-      "@nanopop/*": ["node_modules/nanopop/*"]
+      "@nanopop": ["node_modules/nanopop"]
     }
   },
   "include": ["."]
